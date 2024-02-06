@@ -1,4 +1,4 @@
-# Cursed Objects
+# Sonic DDoS
 This script got it's name from **GadaLuBau**, yet I do not know why I did so. 
 
 ### Proofs
